@@ -1,4 +1,3 @@
-# myportfolio
 # 🚀 AI/ML Portfolio – Nishanth Indarapu
 
 Welcome to my AI/ML portfolio!  
