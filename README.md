@@ -58,18 +58,8 @@ Detects fraudulent job listings using ML classification.
 **Key Features**
 - Data cleaning & feature engineering  
 - Classification models  
-- Real-world dataset  
-
----
-
-### 🔹 AI News Aggregator
-Aggregates and summarizes news using NLP.
-
-**Key Features**
-- Text summarization  
-- Topic classification  
-- Automated pipeline  
-
+- Real-world dataset
+  
 ---
 
 ### 🔹 Mental Health Support Website
