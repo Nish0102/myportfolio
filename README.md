@@ -59,11 +59,4 @@ AI/ML Engineer based in Hyderabad 🇮🇳 — building intelligent systems acro
 
 ---
 
-## 📊 Stats
-
-![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nish0102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nish0102&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
-
----
-
 *Open to full-time roles, freelance, and collabs — let's build something.*
