@@ -59,4 +59,3 @@ AI/ML Engineer based in Hyderabad 🇮🇳 — building intelligent systems acro
 
 ---
 
-*Open to full-time roles, freelance, and collabs — let's build something.*
